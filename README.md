@@ -5,8 +5,6 @@
 - 💼 Previously, I interned at Expedia Group as software development engineer.
 - ⚽ Some of my hobbies include playing soccer, board games, and traveling!
 
----
-
 ## 📫 Contact Me
 
 - **Email:** [donnyjrimer@gmail.com](mailto:donnyjrimer@gmail.com)
