@@ -3,7 +3,6 @@
 🌱 I'm a 4th-year UCLA undergraduate majoring in **Computer Science** and minoring in **Linguistics**.  
 📰 Currently, I'm the **Online Director** at UCLA's student-run newspaper, the [Daily Bruin](https://dailybruin.com/).  
 💼 Previously, I interned at Expedia Group as software development engineer working on their EG Console.
-
 ⚽ Some of my hobbies include playing soccer, board games, and traveling!
 
 ---
