@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Donny 👋
 
-<!--
-**donnyr5/donnyr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a 4th-year UCLA undergraduate majoring in **Computer Science** and minoring in **Linguistics**.  
+📰 Currently, I'm the **Online Director** at UCLA's student-run newspaper, the [Daily Bruin](https://dailybruin.com/).  
+💼 Previously, I interned at Expedia Group as software development engineer working on their EG Console.
+⚽ Some of my hobbies include playing soccer, board games, and traveling!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+
+- **Email:** [donnyjrimer@gmail.com](mailto:donnyjrimer@gmail.com)
+- **Location:** Los Angeles, CA
+- **[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/donovan-rimer-r5/))**
+- **[GitHub](https://github.com/donnyr5)**
+
+Feel free to reach out if you'd like to chat!
+
+
+
