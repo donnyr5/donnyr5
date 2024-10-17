@@ -1,8 +1,8 @@
 # Hi there, I'm Donny 👋
 
-🌱 I'm a 4th-year UCLA undergraduate majoring in Computer Science and minoring in Linguistics.  
+🌱 I'm a 4th-year UCLA undergraduate majoring in Computer Science and minoring in Linguistics.
 ⚽ Some of my hobbies include playing soccer, board games, and traveling!
-📰 Currently, I'm the Online Director at UCLA's student-run newspaper, the [Daily Bruin](https://dailybruin.com/).  
+📰 Currently, I'm the Online Director at UCLA's student-run newspaper, the [Daily Bruin](https://dailybruin.com/).
 💼 Previously, I interned at Expedia Group as software development engineer.
 
 ---
