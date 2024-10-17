@@ -11,7 +11,7 @@
 
 - **Email:** [donnyjrimer@gmail.com](mailto:donnyjrimer@gmail.com)
 - **Location:** Los Angeles, CA
-- **[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/donovan-rimer-r5/))**
+- **[LinkedIn](https://www.linkedin.com/in/donovan-rimer-r5/)**
 - **[GitHub](https://github.com/donnyr5)**
 
 Feel free to reach out if you'd like to chat!
